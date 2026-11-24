@@ -533,7 +533,7 @@ def banner():
 def main():
     banner()
 
-    brand = ask("By D6VAlex > brand ? > visa / mastercard / mix", default="mix",
+    brand = ask("By z01309z > brand ? > visa / mastercard / mix", default="mix",
                 valid=["visa", "mastercard", "mix"]).capitalize()
     if brand == "Mix":
         brand = "Mix"

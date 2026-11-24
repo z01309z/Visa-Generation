@@ -67,7 +67,6 @@ suffixes = [
 ]
 
 places = [
-    # United States
     ("New York", "NY", "100", "212", "US", "United States"),
     ("Brooklyn", "NY", "112", "718", "US", "United States"),
     ("Chicago", "IL", "606", "312", "US", "United States"),
@@ -108,56 +107,43 @@ places = [
     ("New Orleans", "LA", "701", "504", "US", "United States"),
     ("Salt Lake City", "UT", "841", "801", "US", "United States"),
     ("Albuquerque", "NM", "871", "505", "US", "United States"),
-    # Canada
     ("Toronto", "ON", "M5", "416", "CA", "Canada"),
     ("Vancouver", "BC", "V6", "604", "CA", "Canada"),
     ("Montreal", "QC", "H3", "514", "CA", "Canada"),
     ("Calgary", "AB", "T2", "403", "CA", "Canada"),
     ("Ottawa", "ON", "K1", "613", "CA", "Canada"),
     ("Edmonton", "AB", "T5", "780", "CA", "Canada"),
-    # United Kingdom
     ("London", "ENG", "EC1", "20", "GB", "United Kingdom"),
     ("Manchester", "ENG", "M1", "161", "GB", "United Kingdom"),
     ("Birmingham", "ENG", "B1", "121", "GB", "United Kingdom"),
     ("Leeds", "ENG", "LS1", "113", "GB", "United Kingdom"),
     ("Glasgow", "SCT", "G1", "141", "GB", "United Kingdom"),
     ("Edinburgh", "SCT", "EH1", "131", "GB", "United Kingdom"),
-    # Ireland
     ("Dublin", "D", "D01", "1", "IE", "Ireland"),
     ("Cork", "CO", "T12", "21", "IE", "Ireland"),
-    # Germany
     ("Berlin", "BE", "101", "30", "DE", "Germany"),
     ("Munich", "BY", "803", "89", "DE", "Germany"),
     ("Hamburg", "HH", "200", "40", "DE", "Germany"),
     ("Frankfurt", "HE", "603", "69", "DE", "Germany"),
-    # France
     ("Paris", "IDF", "750", "1", "FR", "France"),
     ("Lyon", "ARA", "690", "4", "FR", "France"),
     ("Marseille", "PAC", "130", "4", "FR", "France"),
-    # Netherlands
     ("Amsterdam", "NH", "101", "20", "NL", "Netherlands"),
     ("Rotterdam", "ZH", "301", "10", "NL", "Netherlands"),
-    # Spain
     ("Madrid", "MD", "280", "91", "ES", "Spain"),
     ("Barcelona", "CT", "080", "93", "ES", "Spain"),
-    # Italy
     ("Rome", "RM", "001", "06", "IT", "Italy"),
     ("Milan", "MI", "201", "02", "IT", "Italy"),
-    # Australia
     ("Sydney", "NSW", "200", "2", "AU", "Australia"),
     ("Melbourne", "VIC", "300", "3", "AU", "Australia"),
     ("Brisbane", "QLD", "400", "7", "AU", "Australia"),
     ("Perth", "WA", "600", "8", "AU", "Australia"),
-    # New Zealand
     ("Auckland", "AUK", "101", "9", "NZ", "New Zealand"),
     ("Wellington", "WGN", "601", "4", "NZ", "New Zealand"),
-    # Japan
     ("Tokyo", "13", "100", "3", "JP", "Japan"),
     ("Osaka", "27", "530", "6", "JP", "Japan"),
-    # Brazil
     ("Sao Paulo", "SP", "010", "11", "BR", "Brazil"),
     ("Rio de Janeiro", "RJ", "200", "21", "BR", "Brazil"),
-    # Mexico
     ("Mexico City", "CDMX", "010", "55", "MX", "Mexico"),
     ("Guadalajara", "JAL", "441", "33", "MX", "Mexico"),
 ]

@@ -14,7 +14,7 @@ BANNER = r"""
 / /___| (_| | | |_/ /___| (_| || | | |
 \____/ \__,_|  \__\____/ \__, ||_| |_|
                          |___/
-          Made By D6VAlex > V2 
+          Made By z01309z > V2 
 """
 
 def show_banner():
@@ -231,7 +231,7 @@ def make_currency():
                           "CHF", "SEK", "NOK", "NZD", "MXN", "BRL"])
 
 def make_rights():
-    return "For Right My Right D6VAlex"
+    return "For Right My Right z01309z"
 
 def make_card(brand):
     if brand == "Mix":

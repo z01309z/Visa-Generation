@@ -103,7 +103,7 @@ class App:
         root.geometry("700x600")
         root.configure(bg="#1e1e1e")
         
-        tk.Label(root, text="By D6VAlex", fg="#00ff00", bg="#1e1e1e", font=("Arial", 14, "bold")).pack(pady=10)
+        tk.Label(root, text="By z01309z", fg="#00ff00", bg="#1e1e1e", font=("Arial", 14, "bold")).pack(pady=10)
         
         frame1 = tk.Frame(root, bg="#1e1e1e")
         frame1.pack(pady=5)
